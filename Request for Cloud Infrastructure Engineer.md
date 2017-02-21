@@ -1,19 +1,18 @@
-```
-Nerdalize find-awesome-people dept.                                  [page 1]
-RFC-IE 2017                                                   February 8, 2017
+<pre><code>
+Nerdalize find-awesome-people dept.                                    [page 1]
+RFC-IE 2017                                                    February 8, 2017
 
 Request For Cloud Infrastructure Engineer
-```
-<pre><code>
+
 At [Nerdalize](http://www.nerdalize.com) we're building an affordable, easy,
-and transparent cloud for large HTC workloads, by [placing servers in people's homes](https://vimeo.com/122893200). Say wuuut?!
+and transparent cloud for large HTC workloads,
+by [placing servers in people's homes](https://vimeo.com/122893200). Say wuuut?!
 Yep, really. This way homeowners heat their house for free with our excess heat
 and our compute customer gets the [best price/performance](http://www.nerdalize.com/cloud/).
 We think this is pretty neat.
-</pre></code>
-```
+
 Do you know your stuff when it comes to networking, managing bare metal,
-distributed storage, OS/network security and cluster ops? Then you’re our type!
+istributed storage, OS/network security and cluster ops? Then you’re our type!
 
 If you also consider "Linus" or "RMS" as the name of your first born
 (or already did!) AND we can call you 24/7 when our stack (i.e. your life’s
@@ -78,4 +77,4 @@ you around (coffee/tea/beer/wine provided).
 
 Contact us over SMTP at people@nerdalize.com, hit us on ##nerdalize on freenode,
 give us a call at +31153010022 or look us up in the RIPE database (AS50770).
-```
+</pre></code>
