@@ -4,25 +4,13 @@ RFC-IE 2017                                                   February 8, 2017
 
 Request For Cloud Infrastructure Engineer
 ```
-
-At [Nerdalize`](http://www.nerdalize.com)` we're building an affordable, easy, and transparent cloud for
-large HTC workloads, by `[`placing servers in people's homes`](https://vimeo.com/122893200)`. Say wuuut?!
-Yep, really. This way homeowners heat their house for free with our excess heat
-and our compute customer gets the `[`best price/performance`](http://www.nerdalize.com/cloud/)`. We think this is
-pretty neat.`
-
-
 <pre><code>
-At Nerdalize[1] we're building an affordable, easy, and transparent cloud for
-large HTC workloads, by placing servers in people's homes[2]](https://vimeo.com/122893200). Say wuuut?!
+At [Nerdalize](http://www.nerdalize.com) we're building an affordable, easy,
+and transparent cloud for large HTC workloads, by [placing servers in people's homes](https://vimeo.com/122893200). Say wuuut?!
 Yep, really. This way homeowners heat their house for free with our excess heat
-and our compute customer gets the [best price/performance](http://www.nerdalize.com/cloud/). We think this is
-pretty neat.
-</code><pre>
-```
-`[1]`[`Nerdalize`](http://www.nerdalize.com);
-`[2]`[`Nerdalize`](http://www.nerdalize.com);
-`[3]`[`Nerdalize`](http://www.nerdalize.com)
+and our compute customer gets the [best price/performance](http://www.nerdalize.com/cloud/).
+We think this is pretty neat.
+</pre></code>
 ```
 Do you know your stuff when it comes to networking, managing bare metal,
 distributed storage, OS/network security and cluster ops? Then you’re our type!
@@ -47,7 +35,9 @@ your mistakes.
 - Fun teammates for weird lunch discussions, team days, drinks,
 parties, and more.
 - A workplace at Europe’s biggest high-tech incubator: YES!Delft. The place is
-buzzing with young, vibrant people with a passion for Friday drinks, foosball, and working on great ideas to change the world (think: exoskeletons, rockets, bird repelling lasers etc. etc.).
+buzzing with young, vibrant people with a passion for Friday drinks, foosball,
+and working on great ideas to change the world (think: exoskeletons, rockets,
+  bird repelling lasers etc. etc.).
 
 
 Your Skills Packet
