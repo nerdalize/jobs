@@ -1,6 +1,4 @@
-
-
-![Do you recognize these logo's from your dreams?](http://www.nerdalize.com/wp-content/uploads/2017/02/cluster_dev_job_picture.png)
+![Do you recognize these logo's from your dreams?](Distributed%20Systems%20Engineer/cluster_dev_job_pg1.png)
 
 Ever wondered why cloud providers make it such a hassle for you to migrate your stuff? Or why you're never quite sure what you're actually paying them for? Enter: [Nerdalize](https://www.nerdalize.com)! We build an [affordable, easy-to-use, and sustainable cloud](https://www.nerdalize.cloud) for large computational workloads by [placing high performance servers into homes as heating systems.](https://vimeo.com/122893200)
 
